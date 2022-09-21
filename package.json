@@ -9,6 +9,7 @@
     "@dicebear/avatars": "^4.10.5",
     "@dicebear/avatars-male-sprites": "^4.10.5",
     "@types/node": "^18.7.18",
+    "axios": "^0.27.2",
     "fs-extra": "^10.1.0",
     "mkdirp": "^1.0.4",
     "typescript": "^4.8.3"
